@@ -1,0 +1,38 @@
+/* NavBar.css */
+
+.app-bar {
+    background-color: #2196f3;
+  }
+  
+  .toolbar {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .logo {
+    font-size: 1.5rem;
+    text-decoration: none;
+    color: #fff;
+  }
+  
+  .menu-items {
+    display: flex;
+    gap: 20px;
+  }
+  
+  .search-input {
+    padding: 8px;
+    border-radius: 5px;
+    border: none;
+    margin-right: 10px;
+  }
+  
+  .button {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  .button:hover {
+    text-decoration: underline;
+  }
+  
